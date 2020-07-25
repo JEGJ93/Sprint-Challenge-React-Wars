@@ -20,7 +20,7 @@ const Character = props => {
 
     return (
         
-        <Col xs="6" md="5" xl="6">
+        <Col xs="10" md="5" xl="6">
       <Card>
         <CardHeader>Card Number: {props.item.id}</CardHeader>
         <CardBody>
